@@ -1,0 +1,6 @@
+framework module Pods_P2PLocationTests {
+  umbrella header "Pods-P2PLocationTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
